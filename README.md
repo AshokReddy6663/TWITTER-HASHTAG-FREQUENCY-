@@ -22,7 +22,7 @@ An aesthetic, interactive Big Data Analytics mini-project that extracts hashtags
    ```bash
    streamlit run app.py
    ```
-   live demo:
+   live demo:https://qi5trgyrjksojw6c6zhxea.streamlit.app/
 
 ## CSV format
 The easiest format is a CSV with a column named `text`, `tweet`, `content`, `post`, or `message`.
